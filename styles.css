@@ -1,0 +1,973 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+* {
+  box-sizing: border-box;
+}
+.opensans-bold-milano-red-18px {
+  color: var(--milano-red);
+  font-family: "Open Sans", Helvetica, Arial, serif;
+  font-size: 18px;
+}
+.opensans-extra-normal-milano-red-14px {
+  color: var(--milano-red);
+  font-family: "OpenSans-Extrabold", Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+.opensans-extra-normal-mine-shaft-14px {
+  color: var(--mine-shaft);
+  font-family: "OpenSans-Extrabold", Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+.opensans-extra-normal-white-14px {
+  color: white;
+  font-family: "OpenSans-Extrabold", Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+.opensans-extra-normal-white-32px {
+  color: white;
+  font-family: "OpenSans-Extrabold", Helvetica, Arial, serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+}
+.opensans-regular-normal-sonic-silver-14px {
+  color: var(--sonic-silver);
+  font-family: "OpenSans-Regular", Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+.opensans-regular-normal-white-16px {
+  color: white;
+  font-family: "OpenSans-Regular", Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+}
+.playfairdisplay-regular-normal-black-56px {
+  color: black;
+  font-family: "PlayfairDisplay-Regular", Helvetica, Arial, serif;
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 400;
+}
+.playfairdisplay-regular-normal-licorice-56px {
+  color: var(--licorice);
+  font-family: "PlayfairDisplay-Regular", Helvetica, Arial, serif;
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 400;
+}
+.playfairdisplay-regular-normal-white-56px {
+  color: white;
+  font-family: "PlayfairDisplay-Regular", Helvetica, Arial, serif;
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 400;
+}
+.web-1920-2 {
+  background-color: white;
+  height: 4663px;
+  position: relative;
+  width: 1920px;
+}
+.web-1920-2 .an-aggrega-lation-pos {
+  background-color: transparent;
+  height: 249px;
+  left: 975px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 3411px;
+  width: 572px;
+}
+.web-1920-2 .arrow {
+  background-color: transparent;
+  height: 15px;
+  left: 1508px;
+  position: absolute;
+  top: 2707px;
+  width: 65px;
+}
+.web-1920-2 .call-us-fo--questions {
+  background-color: transparent;
+  height: auto;
+  left: 975px;
+  letter-spacing: 1.33px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 4080px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-2 .chevrolet-logo {
+  background-color: transparent;
+  height: 114px;
+  left: 94px;
+  position: absolute;
+  top: 20px;
+  width: 203px;
+}
+.web-1920-2 .corvette-logo-C61RwL {
+  background-color: transparent;
+  height: 121px;
+  left: 293px;
+  position: absolute;
+  top: 381px;
+  width: 155px;
+}
+.web-1920-2 .corvette-logo-VMr6Om {
+  background-color: transparent;
+  height: 121px;
+  left: 360px;
+  position: absolute;
+  top: 3975px;
+  width: 155px;
+}
+.web-1920-2 .email-us-f--inquiries {
+  background-color: transparent;
+  height: auto;
+  left: 975px;
+  letter-spacing: 1.33px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 4334px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-2 .emailmailcom {
+  background-color: transparent;
+  height: auto;
+  left: 1088px;
+  letter-spacing: 3.04px;
+  line-height: 59px;
+  position: absolute;
+  text-align: left;
+  top: 4440px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-2 .en {
+  background-color: transparent;
+  height: auto;
+  left: 1491px;
+  letter-spacing: 0px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 44px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-2 .fuel-consu--statement {
+  background-color: transparent;
+  height: 249px;
+  left: 1037px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 3646px;
+  width: 515px;
+}
+.web-1920-2 .get-yours-today {
+  background-color: transparent;
+  height: auto;
+  left: 375px;
+  letter-spacing: 0px;
+  line-height: 56px;
+  position: absolute;
+  text-align: left;
+  top: 4076px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-2 .group-5 {
+  background-color: transparent;
+  height: 32px;
+  left: 999px;
+  position: absolute;
+  top: 4200px;
+  width: 32px;
+}
+.web-1920-2 .group-6 {
+  background-color: transparent;
+  height: 31px;
+  left: 995px;
+  position: absolute;
+  top: 4454px;
+  width: 40px;
+}
+.web-1920-2 .group-7 {
+  background-color: transparent;
+  height: 20px;
+  left: 375px;
+  position: absolute;
+  top: 4502px;
+  width: 10px;
+}
+.web-1920-2 .image-10 {
+  background-color: transparent;
+  height: calc(100% + 240px);
+  left: -366px;
+  position: absolute;
+  top: -73px;
+  width: calc(100% + 586px);
+}
+.web-1920-2 .image-11 {
+  background-color: transparent;
+  height: 765px;
+  left: -429px;
+  position: absolute;
+  top: 3100px;
+  width: 1361px;
+}
+.web-1920-2 .image-13 {
+  background-color: transparent;
+  height: 582px;
+  left: 1121px;
+  position: absolute;
+  top: 3968px;
+  width: 793px;
+}
+.web-1920-2 .image-14 {
+  background-color: transparent;
+  height: calc(100% + 28px);
+  left: -254px;
+  position: absolute;
+  top: -28px;
+  width: calc(100% + 691px);
+}
+.web-1920-2 .image-15 {
+  background-color: transparent;
+  height: 1067px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+.web-1920-2 .image-7 {
+  background-color: transparent;
+  height: calc(100% - 262px);
+  left: -129px;
+  position: absolute;
+  top: 0px;
+  width: calc(100% + 535px);
+}
+.web-1920-2 .image-8 {
+  background-color: transparent;
+  height: calc(100% + 137px);
+  left: -65px;
+  position: absolute;
+  top: -40px;
+  width: calc(100% + 402px);
+}
+.web-1920-2 .inspiration {
+  background-color: transparent;
+  height: 5332px;
+  left: 160px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+.web-1920-2 .interior {
+  background-color: transparent;
+  height: auto;
+  left: 367px;
+  letter-spacing: 0px;
+  line-height: 56px;
+  position: absolute;
+  text-align: left;
+  top: 2074px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-2 .kisspng-me-7815450919 {
+  background-color: transparent;
+  height: 427px;
+  left: 375px;
+  position: absolute;
+  top: 3275px;
+  width: 379px;
+}
+.web-1920-2 .line-1 {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: absolute;
+  top: calc(48.91% - 1px);
+  width: calc(100% - 9px);
+}
+.web-1920-2 .mask-group-1 {
+  background-color: transparent;
+  height: 625px;
+  left: 375px;
+  overflow: hidden;
+  position: absolute;
+  top: 1080px;
+  width: 470px;
+}
+.web-1920-2 .mask-group-2 {
+  background-color: transparent;
+  height: 1015px;
+  left: 1116px;
+  overflow: hidden;
+  position: absolute;
+  top: 1904px;
+  width: 804px;
+}
+.web-1920-2 .mask-group-3 {
+  background-color: transparent;
+  height: 298px;
+  left: 1098px;
+  overflow: hidden;
+  position: absolute;
+  top: 2558px;
+  width: 370px;
+}
+.web-1920-2 .mask-group-4 {
+  background-color: transparent;
+  height: 298px;
+  left: 698px;
+  overflow: hidden;
+  position: absolute;
+  top: 2558px;
+  width: 370px;
+}
+.web-1920-2 .masterpiece {
+  background-color: transparent;
+  height: auto;
+  left: 975px;
+  letter-spacing: 1.33px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 3250px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-2 .path-1 {
+  background-color: transparent;
+  height: 320px;
+  left: 283px;
+  position: absolute;
+  top: 1232px;
+  width: 264px;
+}
+.web-1920-2 .path-1-PaoMVD {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.web-1920-2 .path-10 {
+  background-color: transparent;
+  height: 388px;
+  left: 568px;
+  position: absolute;
+  top: 3476px;
+  width: 277px;
+}
+.web-1920-2 .path-11 {
+  background-color: transparent;
+  height: 3px;
+  left: 975px;
+  position: absolute;
+  top: 3669px;
+  width: 36px;
+}
+.web-1920-2 .path-12 {
+  background-color: transparent;
+  height: 3px;
+  left: 975px;
+  position: absolute;
+  top: 3708px;
+  width: 36px;
+}
+.web-1920-2 .path-13 {
+  background-color: transparent;
+  height: 3px;
+  left: 975px;
+  position: absolute;
+  top: 3748px;
+  width: 36px;
+}
+.web-1920-2 .path-15 {
+  background-color: transparent;
+  height: 20px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.web-1920-2 .path-16 {
+  background-color: transparent;
+  height: calc(100% - 10px);
+  left: 0px;
+  position: absolute;
+  top: 10px;
+  width: 100%;
+}
+.web-1920-2 .path-18 {
+  background-color: transparent;
+  height: 20px;
+  left: 475px;
+  position: absolute;
+  top: 4502px;
+  width: 25px;
+}
+.web-1920-2 .path-19 {
+  background-color: transparent;
+  height: 20px;
+  left: 575px;
+  position: absolute;
+  top: 4502px;
+  width: 20px;
+}
+.web-1920-2 .path-2 {
+  background-color: transparent;
+  height: 238px;
+  left: 283px;
+  position: absolute;
+  top: 1414px;
+  width: 264px;
+}
+.web-1920-2 .path-20 {
+  background-color: transparent;
+  height: 10px;
+  left: 580px;
+  position: absolute;
+  top: 4506px;
+  width: 10px;
+}
+.web-1920-2 .path-21 {
+  background-color: transparent;
+  height: 3px;
+  left: 589px;
+  position: absolute;
+  top: 4505px;
+  width: 3px;
+}
+.web-1920-2 .path-22 {
+  background-color: transparent;
+  height: 765px;
+  left: -12px;
+  position: absolute;
+  top: 3100px;
+  width: 944px;
+}
+.web-1920-2 .path-3 {
+  background-color: transparent;
+  height: 238px;
+  left: 283px;
+  position: absolute;
+  top: 1514px;
+  width: 264px;
+}
+.web-1920-2 .path-4 {
+  background-color: transparent;
+  height: 207px;
+  left: 283px;
+  position: absolute;
+  top: 1616px;
+  width: 264px;
+}
+.web-1920-2 .path-5 {
+  background-color: transparent;
+  height: 188px;
+  left: 283px;
+  position: absolute;
+  top: 1679px;
+  width: 264px;
+}
+.web-1920-2 .path-6 {
+  background-color: transparent;
+  height: 388px;
+  left: -87px;
+  position: absolute;
+  top: 3476px;
+  width: 471px;
+}
+.web-1920-2 .path-7 {
+  background-color: transparent;
+  height: 388px;
+  left: 180px;
+  position: absolute;
+  top: 3476px;
+  width: 350px;
+}
+.web-1920-2 .path-8 {
+  background-color: transparent;
+  height: 388px;
+  left: 327px;
+  position: absolute;
+  top: 3476px;
+  width: 350px;
+}
+.web-1920-2 .path-9 {
+  background-color: transparent;
+  height: 388px;
+  left: 476px;
+  position: absolute;
+  top: 3476px;
+  width: 304px;
+}
+.web-1920-2 .polygon-1 {
+  background-color: transparent;
+  height: 5px;
+  left: 1525px;
+  position: absolute;
+  top: 48px;
+  width: 6px;
+}
+.web-1920-2 .polygon-2 {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 13px;
+}
+.web-1920-2 .powertrain {
+  background-color: transparent;
+  height: auto;
+  left: 975px;
+  letter-spacing: 0px;
+  line-height: 56px;
+  position: absolute;
+  text-align: left;
+  top: 3324px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-2 .pre-order-now-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1578px;
+  letter-spacing: 1.33px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 44px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-2 .pre-order-now-QxM5SU {
+  background-color: transparent;
+  height: auto;
+  left: 408px;
+  letter-spacing: 1.33px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 4270px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-2 .pre-order-now-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 347px;
+  letter-spacing: 1.33px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 688px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-2 .pre-order-now-mzXdH9 {
+  background-color: transparent;
+  height: auto;
+  left: 449px;
+  letter-spacing: 1.33px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 2552px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-2 .rectangle- {
+  background-color: whitesmoke;
+  height: 581px;
+  left: -6px;
+  position: absolute;
+  top: 3865px;
+  width: 1926px;
+}
+.web-1920-2 .rectangle-11 {
+  background-color: var(--licorice);
+  height: 354px;
+  left: 665px;
+  position: absolute;
+  top: 2530px;
+  width: 948px;
+}
+.web-1920-2 .rectangle-12 {
+  background-color: var(--milano-red);
+  height: 200px;
+  left: 365px;
+  position: absolute;
+  top: 2458px;
+  width: 900px;
+}
+.web-1920-2 .rectangle-13 {
+  background-color: var(--woodsmoke);
+  height: 435px;
+  left: -4px;
+  position: absolute;
+  top: 2653px;
+  width: 1924px;
+}
+.web-1920-2 .rectangle-16 {
+  background-color: var(--licorice);
+  height: 618px;
+  left: 875px;
+  position: absolute;
+  top: 3988px;
+  width: 670px;
+}
+.web-1920-2 .rectangle-17-C61RwL {
+  background-color: white;
+  height: 1px;
+  left: 975px;
+  position: absolute;
+  top: 4129px;
+  width: 80px;
+}
+.web-1920-2 .rectangle-17-VMr6Om {
+  background-color: white;
+  height: 1px;
+  left: 975px;
+  position: absolute;
+  top: 4382px;
+  width: 80px;
+}
+.web-1920-2 .rectangle-18-C61RwL {
+  background-color: var(--milano-red);
+  height: 83px;
+  left: 975px;
+  position: absolute;
+  top: 4175px;
+  width: 470px;
+}
+.web-1920-2 .rectangle-18-VMr6Om {
+  background-color: var(--milano-red);
+  height: 83px;
+  left: 975px;
+  position: absolute;
+  top: 4428px;
+  width: 470px;
+}
+.web-1920-2 .rectangle-19-C61RwL {
+  background-color: white;
+  height: 83px;
+  left: 975px;
+  position: absolute;
+  top: 4175px;
+  width: 80px;
+}
+.web-1920-2 .rectangle-19-VMr6Om {
+  background-color: white;
+  height: 83px;
+  left: 975px;
+  position: absolute;
+  top: 4428px;
+  width: 80px;
+}
+.web-1920-2 .rectangle-2-C61RwL {
+  background-color: var(--white);
+  height: 53px;
+  left: 1475px;
+  position: absolute;
+  top: 24px;
+  width: 70px;
+}
+.web-1920-2 .rectangle-2-QxM5SU {
+  background-color: var(--milano-red);
+  height: 53px;
+  left: 375px;
+  position: absolute;
+  top: 4250px;
+  width: 200px;
+}
+.web-1920-2 .rectangle-2-VMr6Om {
+  background-color: var(--milano-red);
+  height: 53px;
+  left: 1545px;
+  position: absolute;
+  top: 24px;
+  width: 200px;
+}
+.web-1920-2 .rectangle-2-mzXdH9 {
+  background-color: white;
+  height: 53px;
+  left: 416px;
+  position: absolute;
+  top: 2532px;
+  width: 200px;
+}
+.web-1920-2 .rectangle-22 {
+  background-color: transparent;
+  height: 581px;
+  left: 1303px;
+  position: absolute;
+  top: 3865px;
+  width: 617px;
+}
+.web-1920-2 .rectangle-3 {
+  background-color: white;
+  height: 1px;
+  left: 245px;
+  position: absolute;
+  top: 701px;
+  width: 80px;
+}
+.web-1920-2 .rectangle-6-C61RwL {
+  background-color: var(--milano-red);
+  height: 1px;
+  left: 975px;
+  position: absolute;
+  top: 1231px;
+  width: 80px;
+}
+.web-1920-2 .rectangle-6-VMr6Om {
+  background-color: var(--milano-red);
+  height: 1px;
+  left: 367px;
+  position: absolute;
+  top: 2050px;
+  width: 80px;
+}
+.web-1920-2 .rectangle-6-mzXdH9 {
+  background-color: var(--milano-red);
+  height: 1px;
+  left: 975px;
+  position: absolute;
+  top: 3299px;
+  width: 80px;
+}
+.web-1920-2 .rectangle-7 {
+  background-color: transparent;
+  height: 922px;
+  left: 156px;
+  position: absolute;
+  top: 1004px;
+  width: 767px;
+}
+.web-1920-2 .second-to-none {
+  background-color: transparent;
+  height: auto;
+  left: 975px;
+  letter-spacing: 1.33px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 1182px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-2 .span0-E0NWvq {
+  color: rgba(116, 116, 116, 1);
+  font-family: "OpenSans-Regular", Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+}
+.web-1920-2 .span1-E0NWvq {
+  color: rgba(222, 14, 11, 1);
+  font-family: "OpenSans-Regular", Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+}
+.web-1920-2 .span2-E0NWvq {
+  color: rgba(116, 116, 116, 1);
+  font-family: "OpenSans-Regular", Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+}
+.web-1920-2 .span3-E0NWvq {
+  color: rgba(226, 41, 39, 1);
+  font-family: "OpenSans-Regular", Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+}
+.web-1920-2 .span4-E0NWvq {
+  color: rgba(116, 116, 116, 1);
+  font-family: "OpenSans-Regular", Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+}
+.web-1920-2 .span5-E0NWvq {
+  color: rgba(222, 14, 11, 1);
+  font-family: "OpenSans-Bold", Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+}
+.web-1920-2 .span6-E0NWvq {
+  color: rgba(116, 116, 116, 1);
+  font-family: "OpenSans-Regular", Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+}
+.web-1920-2 .span7-E0NWvq {
+  color: rgba(235, 109, 108, 1);
+  font-family: "OpenSans-Regular", Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+}
+.web-1920-2 .span8-E0NWvq {
+  color: rgba(235, 109, 108, 1);
+  font-family: "OpenSans-Bold", Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+}
+.web-1920-2 .span9-E0NWvq {
+  color: rgba(222, 14, 11, 1);
+  font-family: "OpenSans-Bold", Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+}
+.web-1920-2 .sporty-coc-e-interior {
+  background-color: transparent;
+  height: auto;
+  left: 367px;
+  letter-spacing: 1.33px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 2002px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-2 .the-chevro-corvette-f {
+  background-color: transparent;
+  height: 249px;
+  left: 975px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 1402px;
+  width: 572px;
+}
+.web-1920-2 .the-cockpi-ted-racing {
+  background-color: transparent;
+  height: 249px;
+  left: 367px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 2162px;
+  width: 572px;
+}
+.web-1920-2 .the-futureof-sport {
+  background-color: transparent;
+  height: auto;
+  left: 245px;
+  letter-spacing: 0px;
+  line-height: 56px;
+  position: absolute;
+  text-align: left;
+  top: 478px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-2 .the-merced-nd-to-none {
+  background-color: transparent;
+  color: var(--storm-dust);
+  font-family: "OpenSans-Regular", Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 105px;
+  left: 375px;
+  letter-spacing: 0px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 4151px;
+  width: 341px;
+}
+.web-1920-2 .the-next-g-end-luxury {
+  background-color: transparent;
+  height: 56px;
+  left: 245px;
+  letter-spacing: 0px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 610px;
+  width: 554px;
+}
+.web-1920-2 .x2020-gm-ch-s-reserved {
+  background-color: transparent;
+  color: rgba(173, 173, 173, 1);
+  font-family: "OpenSans-Regular", Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 31px;
+  left: 375px;
+  letter-spacing: 0px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 4572px;
+  white-space: nowrap;
+  width: 439px;
+}
+.web-1920-2 .x2021corvette {
+  background-color: transparent;
+  height: auto;
+  left: 975px;
+  letter-spacing: 0px;
+  line-height: 56px;
+  position: absolute;
+  text-align: left;
+  top: 1256px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-2 .x30-123-456-7890 {
+  background-color: transparent;
+  height: auto;
+  left: 1088px;
+  letter-spacing: 3.04px;
+  line-height: 59px;
+  position: absolute;
+  text-align: left;
+  top: 4187px;
+  white-space: nowrap;
+  width: auto;
+}
+:root {
+  --licorice: rgba(21, 21, 21, 1);
+  --milano-red: rgba(222, 14, 11, 1);
+  --mine-shaft: rgba(51, 51, 51, 1);
+  --sonic-silver: rgba(116, 116, 116, 1);
+  --storm-dust: rgba(101, 101, 101, 1);
+  --white: rgba(255, 255, 255, 0.384);
+  --woodsmoke: rgba(13, 13, 13, 1);
+}
