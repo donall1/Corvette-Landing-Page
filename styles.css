@@ -225,7 +225,7 @@
 .web-1920-2 .image-11 {
   background-color: transparent;
   height: 765px;
-  left: -429px;
+  left: 0px;
   position: absolute;
   top: 3100px;
   width: 1361px;
@@ -241,7 +241,7 @@
 .web-1920-2 .image-14 {
   background-color: transparent;
   height: calc(100% + 28px);
-  left: -254px;
+  left: 0px;
   position: absolute;
   top: -28px;
   width: calc(100% + 691px);
@@ -257,7 +257,7 @@
 .web-1920-2 .image-7 {
   background-color: transparent;
   height: calc(100% - 262px);
-  left: -129px;
+  left: 0px;
   position: absolute;
   top: 0px;
   width: calc(100% + 535px);
@@ -265,7 +265,7 @@
 .web-1920-2 .image-8 {
   background-color: transparent;
   height: calc(100% + 137px);
-  left: -65px;
+  left: 0px;
   position: absolute;
   top: -40px;
   width: calc(100% + 402px);
@@ -461,7 +461,7 @@
 .web-1920-2 .path-22 {
   background-color: transparent;
   height: 765px;
-  left: -12px;
+  left: 0px;
   position: absolute;
   top: 3100px;
   width: 944px;
@@ -493,7 +493,7 @@
 .web-1920-2 .path-6 {
   background-color: transparent;
   height: 388px;
-  left: -87px;
+  left: 0px;
   position: absolute;
   top: 3476px;
   width: 471px;
@@ -601,7 +601,7 @@
 .web-1920-2 .rectangle- {
   background-color: whitesmoke;
   height: 581px;
-  left: -6px;
+  left: 0px;
   position: absolute;
   top: 3865px;
   width: 1926px;
@@ -625,7 +625,7 @@
 .web-1920-2 .rectangle-13 {
   background-color: var(--woodsmoke);
   height: 435px;
-  left: -4px;
+  left: 0px;
   position: absolute;
   top: 2653px;
   width: 1924px;
